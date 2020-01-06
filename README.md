@@ -1,2 +1,2 @@
 # Raimow-poem
-Learing Git Hub
+Learing how to use version control
